@@ -1,1 +1,1 @@
-git merge origin
+git rebase origin main
